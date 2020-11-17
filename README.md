@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working as Software Engineer at [Alisys](http://alisys.net/)
 - 📫 How to reach me: yo@miguelms.es
-- 🌱 I’m currently learning Big Data DB (Apache Cassandra)
+- 🌱 I’m currently working in side projects with Ruby On Rails and learning big data db Apache Cassandra
 
 <!--
 **miguelms95/miguelms95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
