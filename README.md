@@ -1,8 +1,10 @@
 ### Hi there 👋
-- 🔭 I’m currently working as Software Engineer at [Alisys](http://alisys.net/)
+- 🔭 I’m currently working as Software Engineer at [Alisys](http://alisys.net/), I'm fullstack engineer.
+- 💻 Main stack: Java, Spring Boot, Ruby on Rails.
 - 📫 How to reach me: yo@miguelms.es
 - 🌱 I’m currently working in side projects with Ruby On Rails and learning big data db Apache Cassandra
 
+![miguelms95's Github stats](https://github-readme-stats.vercel.app/api?username=miguelms95&show_icons=true&theme=vue)
 <!--
 **miguelms95/miguelms95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
