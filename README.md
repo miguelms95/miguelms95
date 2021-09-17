@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working as Senior Software Engineer at [NEXT Digital Hub](https://www.nextdigital.es/). Fullstack developer.
-- 💻 Main stack: Java, Spring Boot, Ruby on Rails. Passionate about automation, docker.
+- 💻 Main stack: Java, Spring Boot, Python, Ruby on Rails. Passionate about automation, Docker, Kubernetes.
 - 📫 How to reach me: yo@miguelms.es
 - 🌱 I’m currently working in side projects with Ruby On Rails and learning big data db Apache Cassandra
 
