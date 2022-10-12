@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working as Senior Software Engineer at [NEXT Digital Hub](https://www.nextdigital.es/). Fullstack developer.
-- 💻 Main stack: Java, Spring Boot, Python, Ruby on Rails. Passionate about automation, Docker, Kubernetes.
+- 🔭 I’m currently working as Senior Software Engineer at [NEXT Digital Hub (Iberia)](https://www.nextdigital.es/). Fullstack developer.
+- 💻 Main stack: Java, Spring Boot, Angular/VueJS, Python, Ruby on Rails. Passionate about automation, Docker, Kubernetes.
 - 📫 How to reach me: yo@miguelms.es
-- 🌱 I’m currently working in side projects with Ruby On Rails and learning big data db Apache Cassandra
+- 🌱 I’m currently working in side projects with Ionic, VueJS and Ruby On Rails. Always learning.
 
 ![miguelms95's Github stats](https://github-readme-stats.vercel.app/api?username=miguelms95&show_icons=true&theme=vue)
 <!--
