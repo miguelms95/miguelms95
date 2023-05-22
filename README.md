@@ -1,6 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working as Senior Software Engineer at [NEXT Digital Hub (Iberia)](https://www.nextdigital.es/). Fullstack developer.
-- 💻 Main stack: Java, Spring Boot, Angular/VueJS, Python, Ruby on Rails. Passionate about automation, Docker, Kubernetes.
+- 🔭 I’m currently working as Tech Lead at [NEXT Digital (Iberia)](https://www.nextdigital.es/).
+- 💻 Main stack: Java, Spring Boot, Angular/VueJS, Python, Ruby on Rails. 
+- 🚀 Passionate about automation, good practices, testing, infra and DX.
 - 📫 How to reach me: yo@miguelms.es
 - 🌱 I’m currently working in side projects with Ionic, VueJS and Ruby On Rails. Always learning.
 
