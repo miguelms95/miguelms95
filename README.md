@@ -5,8 +5,9 @@
 - 📫 How to reach me: yo@miguelms.es
 - 🌱 I’m currently working in side projects with Ionic, VueJS and Ruby On Rails. Always learning.
 
-![miguelms95's Github stats](https://github-readme-stats.vercel.app/api?username=miguelms95&show_icons=true&theme=vue)
 <!--
+![miguelms95's Github stats](https://github-readme-stats.vercel.app/api?username=miguelms95&show_icons=true&theme=vue)
+
 **miguelms95/miguelms95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
