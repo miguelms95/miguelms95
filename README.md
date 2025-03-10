@@ -2,8 +2,9 @@
 - 🔭 I’m currently working as Tech Lead and VP Engineering at [NEXT Digital](https://www.nextdigital.es/).
 - 💻 Main stack: Java, Spring Boot, VueJS, Python, Ruby on Rails. 
 - 🚀 Passionate about automation, good practices, testing, infra and DX.
-- 📫 How to reach me: yo@miguelms.es
-- 🌱 I’m currently working in side projects with Ionic, VueJS, Ruby On Rails and mobile environments. Always learning.
+- 🌱 I’m currently working in side [projects](https://miguelms.es/projects) with Ionic, VueJS, Ruby On Rails and mobile environments. Always learning.
+- 📫 How to reach me: hola@miguelms.es
+
 
 <!--
 ![miguelms95's Github stats](https://github-readme-stats.vercel.app/api?username=miguelms95&show_icons=true&theme=vue)
