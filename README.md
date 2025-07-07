@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working as Tech Lead and VP Engineering at [NEXT Digital](https://www.nextdigital.es/).
+- 🔭 I’m currently working as VP Engineering & Tech Lead at [NEXT Digital](https://www.nextdigital.es/).
 - 💻 Main stack: Java, Spring Boot, VueJS, Python, Ruby on Rails. 
 - 🚀 Passionate about automation, good practices, testing, infra and DX.
-- 🌱 I’m currently working in side [projects](https://miguelms.es/projects) with Ionic, VueJS, Ruby On Rails and mobile environments. Always learning.
+- 🌱 I’m currently working some side [projects](https://miguelms.es/projects) with Capacitor, VueJS, Ionic, Ruby On Rails, TS and mobile environments. Always learning.
 - 📫 How to reach me: hola@miguelms.es
 
 
