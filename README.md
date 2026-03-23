@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working as Software Engineer at [Alan](https://alan.com/).
-- 💻 Main stack: Java, Spring Boot, Python, VueJS, React.
-- ☁️ AWS, GCP, Cloudlfare.
-- 🚀 Passionate about automation, good practices, testing, infra and DX.
+- 🔭 I’m currently working as Software Engineer at [Alan](https://alan.com/)
+- 💻 Main stack: Java, Spring Boot, Python, VueJS, React
+- ☁️ AWS, GCP, Cloudlfare
+- 🚀 Passionate about automation, good practices, testing, infra and DX
 - 🌱 I’m currently working some side [projects](https://miguelms.es/projects) with Capacitor, VueJS, Ionic, Ruby On Rails, TS and mobile environments. Always learning.
 - 📫 How to reach me: hola@miguelms.es
 
